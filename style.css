@@ -1,0 +1,102 @@
+body{
+    background-image: url(1567846.jpg);
+    background-size: auto;
+}
+
+.table{
+    background-color: aquamarine;
+    width: 100%;
+}
+.name{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.photo{
+    width: 30%;
+    margin: 5%;
+}
+img{
+    border-style: groove;
+}
+
+.basic-details{
+    width: 70%;
+    text-align: right;
+    
+}
+
+.Professional-summary{
+    font-size: 20px;
+    font-family: 'Asap Condensed', sans-serif;
+    color:rgb(109, 25, 112);
+    font-weight: 200;
+    background-color: antiquewhite;
+    box-shadow: 2em;
+    width: fit-content;
+    
+}
+
+.basic-details{
+    font-family: 'Asap Condensed', sans-serif;
+    width: 70%;
+    margin: 5%;
+    box-shadow: 2em;
+    font-size: 20px;  
+    
+}
+h1,h2
+{
+    font-family: 'Courgette', cursive;
+    font-size: 25px;
+    color: darkred;
+
+}
+.Education{
+    font-size: 20px;
+    font-family: 'Asap Condensed', sans-serif;
+    color:black;
+    font-weight: 200;
+    background-color: antiquewhite;
+    width: fit-content;
+    box-shadow: 10em;
+   
+}
+.Certifications{
+    font-size: 20px;
+    font-family: 'Asap Condensed', sans-serif;
+    color:black;
+    background-color: antiquewhite;
+    box-shadow: 6em;
+    width: fit-content;
+}
+.Technical-skills{
+    font-size: 20px;
+    font-family: 'Asap Condensed', sans-serif;
+    color:black;
+    background-color: antiquewhite;
+    width: fit-content;
+    box-shadow: 5em;
+
+}
+
+.Soft-skills{
+    font-size: 20px;
+    font-family: 'Asap Condensed', sans-serif;
+    color:black;
+    background-color: antiquewhite;
+    width: fit-content;
+    box-shadow: 4em;
+}
+
+.Hobbies{
+    font-size: 20px;
+    font-family: 'Asap Condensed', sans-serif;
+    color:black;
+    background-color: antiquewhite;
+    width: fit-content;
+    box-shadow: 3em;
+}
